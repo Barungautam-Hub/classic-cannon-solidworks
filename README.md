@@ -1,4 +1,4 @@
-# classic-cannon-solidworks
+# Classic Cannon Assembly | Solidworks
 Classic cannon assembly modeled and assembled in SOLIDWORKS for CAD practice.
 ## Overview
 
