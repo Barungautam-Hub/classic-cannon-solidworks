@@ -10,19 +10,19 @@ This project is a 3D CAD model of a classic cannon developed in **SOLIDWORKS** a
 
 ### Isometric View
 
-![Isometric View](isometric-view.png)
+![Isometric View](Isometric-view.png)
 
 ### Exploded View
 
-![Exploded View](exploded-view.png)
+![Exploded View](Exploded-view.png)
 
 ### Side View
 
-![Side View](side-view.png)
+![Side View](Side-view.png)
 
 ### Rear Perspective
 
-![Rear Perspective](rear-view.png)
+![Rear Perspective](Rear-view.png)
 
 ---
 
